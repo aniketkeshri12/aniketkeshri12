@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Aniket keshri and I'm a Learner and a Code<br>Exploring the possibilities of Machine Learning, one algorithm at a time 😉</h2>
+<h2 align="left">Hi 👋! My name is Aniket keshri and I'm a Learner and a Coder<br>Exploring the possibilities of Machine Learning, one algorithm at a time 😉</h2>
 
 ###
 
